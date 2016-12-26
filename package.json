@@ -1,7 +1,7 @@
 {
-  "name": "apilly",
+  "name": "priceline",
   "version": "0.0.1",
-  "description": "Apilly service",
+  "description": "Priceline service",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
